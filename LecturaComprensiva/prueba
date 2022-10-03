@@ -1,0 +1,10 @@
+peliculas = ['Volver al futuro', 'Pulp Fiction', 'Ready Player One']
+
+print("Antes de agregar dos elementos, la lista es:")
+print(peliculas)
+
+peliculas.extend(['El club de la pelea', 'Kung Fu Hustle'])
+
+
+print("Después de agregar dos elementos, la lista es:")
+print(peliculas)
